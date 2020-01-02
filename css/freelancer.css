@@ -397,6 +397,12 @@ h6, .h6 {
   font-size: 1rem;
 }
 
+.infelice-og:hover {
+  opacity: 0.3;
+  filter: alpha(opacity=30);
+  /* background: url("img/portfolio/infelice-avatar.png") no-repeat; */
+}
+
 .lead {
   font-size: 1.25rem;
   font-weight: 300;
